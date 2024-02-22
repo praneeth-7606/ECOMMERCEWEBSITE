@@ -1,0 +1,30 @@
+.pacifico-regular {
+  font-family: "Pacifico", cursive;
+  font-weight: 4px;
+  font-style: normal;
+}
+
+body{
+ color: red;
+ background-color: aqua;
+}
+.App{
+  text-align: center;
+  align-content: center;
+  align-items: center;
+}
+
+.hi{
+  display: flex;
+}
+
+.logo{
+  display: flex;
+
+}
+
+.navbar-link:hover {
+  background-color: #444;
+  color: #fff;
+}
+
